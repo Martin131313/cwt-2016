@@ -1,0 +1,45 @@
+body {
+	background-color: black;
+}
+.main{
+	margin: 0 auto;
+	background-color: #353b44; 
+	width: 60%;
+	height: 1400px;
+}
+.div1{
+	margin: 0 auto;
+	width: 80%;
+	background-color: white;
+	height: 100px;
+	padding: 0 auto;
+}
+
+.div2{
+	margin: 40px 0 0 115px;
+	background-color: white;
+	width: 35%;
+	height: 200px;
+	float: left;
+}
+
+.navche a {
+	display: block;
+	float: left;
+	width: calc(100% / 5);
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 39px 0;
+	text-transform: lowercase;
+	font-family: sans-serif;
+	background-color: red;
+	color: black;
+	font-size: 20px;
+
+	}
+.tho{
+	font-style: normal;
+	font-weight: none;
+	font-size: 30px;
+}	
